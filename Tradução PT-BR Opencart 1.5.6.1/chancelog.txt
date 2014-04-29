@@ -1,0 +1,16 @@
+V1.1 - 28/04/2014
+- Update - add novas linhas de tradução no arquivo admin/common/header.php
+- Add - add arquivo admin/catalog/profile.php
+- Add - add arquivo admin/sales/recurring.php
+- Fix (DFM-417-93537) - Fixado bug problema relatado arquivo sucess.php
+- Add - add arquivos de tradução na pasta portuguese-br para os arquivos do modulo moip desenvolvido pelo Valdecir 
+- Add - add arquivos do tradução para o modulo bcach(pagamento digital) na pasta portuguese-br
+
+
+
+
+
+_____________________
+V1.0 - 28/03/2014
+
+Initial Release
